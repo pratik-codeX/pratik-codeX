@@ -73,7 +73,7 @@ Backend CLI tool for log parsing + JSON reporting.
 ---
 
 ### 🌐 Connect with Me
-LinkedIn: https://www.linkedin.com/in/pratik-raut-85248b319/  
+LinkedIn: https://www.linkedin.com/in/pratik-codex
 
 <!--
 **pratik-codeX/pratik-codeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
