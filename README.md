@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2A2A72&height=180&section=header&text=Pratik%20Raut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Pratik Raut" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2A2A72&height=140&section=header&text=Pratik%20Raut&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Pratik Raut" />
   
   <h3>Backend Engineering ⚡ Systems Programming ⚡ Linux Internals</h3>
   
